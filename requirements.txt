@@ -1,0 +1,6 @@
+fastapi
+uvicorn
+youtube_dl
+supabase
+python-dotenv
+yt_dlp
